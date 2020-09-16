@@ -1,7 +1,7 @@
 # Lifepack Coding
 Welcome to Lifepack Coding.  In this github repository we have some content belonging to our course.  
 
-## Scratch projects:
+## Scratch projects
 
 ### Grade 8 - Data Analysis
 Credit - Initial Scratch code by WildTraces - Project https://scratch.mit.edu/projects/401556930/
@@ -15,12 +15,12 @@ Our goal is to adjust this Scratch project so that, given r, we can we can deter
 
 Goal:  
 1.  Add the conditionals needed to evaluate the variable r (which is pre-calculated) to determine the relationship status between the datapoints.  The possibilities are:
-  - None
-  - Positive Weak
-  - Positive Moderate
-  - Positive Strong
-  - Negative Weak
-  - Negative Moderate
-  - Negative Strong
+    - None
+    - Positive Weak
+    - Positive Moderate
+    - Positive Strong
+    - Negative Weak
+    - Negative Moderate
+    - Negative Strong
 2.  Create the costumes that will render text at the bottom of the screen that displays the relationship status
 
