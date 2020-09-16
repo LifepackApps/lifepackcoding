@@ -15,12 +15,13 @@ Our goal is to adjust this Scratch project so that, given r, we can we can deter
 
 Goal:  
 1.  Add the conditionals needed to evaluate the variable r (which is pre-calculated) to determine the relationship status between the datapoints.  The possibilities are:
-    - None
-    - Positive Weak
-    - Positive Moderate
-    - Positive Strong
-    - Negative Weak
-    - Negative Moderate
-    - Negative Strong
+    - Negative Strong (r <= -0.7)
+    - Negative Moderate (-0.7 < r <= -0.5)
+    - Negative Weak (-0.5 < r <= -0.3)
+    - None (-0.3 < r < 0.3)
+    - Positive Weak (0.3 <= r < 0.5)
+    - Positive Moderate (0.5 <= r < 0.7)
+    - Positive Strong (r >= 0.7)
+    
 2.  Create the costumes that will render text at the bottom of the screen that displays the relationship status
 
